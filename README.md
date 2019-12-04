@@ -210,5 +210,5 @@
 ```
 
 ![顶级分类](https://lucklit.oss-cn-beijing.aliyuncs.com/written/Snip20191205_27.png)
-![二级分类](https://lucklit.oss-cn-beijing.aliyuncs.com/written/Snip20191205_27.png)
+![二级分类](https://lucklit.oss-cn-beijing.aliyuncs.com/written/Snip20191205_26.png)
 
