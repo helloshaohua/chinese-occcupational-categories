@@ -1,11 +1,10 @@
-# 中文职业类别JSON数据
+# 中文职业类别数据
 
-## 下载JSON文件
+## 获取数据
 
-- [压缩版](occupational-compressed.json)
-- [未压缩版](occupational-uncompressed.json)
+[点击下载](https://github.com/wumoxi/chinese-occcupational-categories/archive/v1.0.0.zip)
 
-## 数据示例
+## 数据说明
 
 键 `000000` 为顶级分类， 键 `000001` 为顶级分类的第一条记录的二级分类，依次类推！
 
